@@ -19,8 +19,4 @@
   </a>
 </div>
 <br/>
-- 🔭 I’m currently working on a new music themed social media site by the name of Amplifire.
-- 🌱 I’m currently learning AWS!
-- 💬 Ask me about what games I'm currently playing!
-- 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
-- ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
+
