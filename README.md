@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring full-stack software developer based in Los Angeles.</h3>
 <div align="center">
   <img
-  src="https://media0.giphy.com/media/1OX5yd6Spaghy/giphy.gif?cid=ecf05e47leqstlcuondindawv5issedb1waprxjrpu8mh9t7&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+  src="https://i.giphy.com/media/JcqgN61gtB37jRVy2W/giphy.webp"
   alt="Alt text"
   title="Optional title"
   style="width: 50%;">
@@ -23,4 +23,4 @@
 - 🌱 I’m currently learning AWS!
 - 💬 Ask me about what games I'm currently playing!
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
-- ⚡ Fun fact: I'm a very big fan of Garfield as you can see above 🤣
+- ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
