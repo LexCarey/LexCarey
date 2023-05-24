@@ -1,12 +1,10 @@
 <h1 align="center">Hey! My name is Lexington, but most people call me Lex.</h1>
 <h3 align="center">An aspiring full-stack software developer based in Los Angeles.</h3>
-<div align="center">
   <img
   src="https://media0.giphy.com/media/1OX5yd6Spaghy/giphy.gif?cid=ecf05e47leqstlcuondindawv5issedb1waprxjrpu8mh9t7&ep=v1_gifs_search&rid=giphy.gif&ct=g"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 50%;">
-</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/lexington-carey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
