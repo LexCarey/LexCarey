@@ -25,3 +25,5 @@
 - 💬 Ask me about what games I'm currently playing!
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
 - ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
