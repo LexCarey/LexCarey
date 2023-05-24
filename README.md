@@ -1,5 +1,5 @@
 <div align="center"><h1>Hey! My name is Lexington, but most people call me Lex.</h1></div>
-<div align="center">## An aspiring full stack developer based in Los Angeles</div>
+## <div align="center">An aspiring full stack developer based in Los Angeles</div>
 <!--
 **LexCarey/LexCarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
