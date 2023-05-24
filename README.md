@@ -1,5 +1,11 @@
 <h1 align="center">Hey! My name is Lexington, but most people call me Lex.</h1>
 <h3 align="center">An aspiring full-stack software developer based in Los Angeles.</h3>
+<div>
+  <a href="https://www.linkedin.com/in/lexington-carey/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 **LexCarey/LexCarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
