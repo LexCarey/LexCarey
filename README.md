@@ -26,4 +26,4 @@
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
 - ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,django,express,flask,git,github,,html,java,js,jquery,mongodb,mysql,nodejs,ps,postman,py,react,vscode,wordpress,)](https://skillicons.dev)
