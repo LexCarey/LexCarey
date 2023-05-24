@@ -23,4 +23,4 @@
 - 🌱 I’m currently learning AWS!
 - 💬 Ask me about what games I'm currently playing!
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I'm a very big fan of Garfield as you can see above 🤣
