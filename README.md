@@ -28,5 +28,5 @@
 
 <h3 align="center">Current Skill Set:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,py,flask,java,wordpress,aws,django,mongodb,mysql,git,github,vscode,ps,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,py,flask,java,wordpress,aws,django,mongodb,mysql,git,github,vscode,ps,postman&perline=5" />
 </p>
