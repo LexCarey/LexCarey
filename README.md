@@ -5,7 +5,7 @@
   src="https://i.giphy.com/media/cRNEpWTGQqhaV1s886/giphy.webp"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/lexington-carey/">
