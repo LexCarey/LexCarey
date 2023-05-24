@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring full-stack software developer based in Los Angeles.</h3>
 <div align="center">
   <img
-  src="https://i.giphy.com/media/cRNEpWTGQqhaV1s886/giphy.webp"
+  src="https://media0.giphy.com/media/1OX5yd6Spaghy/giphy.gif?cid=ecf05e47leqstlcuondindawv5issedb1waprxjrpu8mh9t7&ep=v1_gifs_search&rid=giphy.gif&ct=g"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; width: 50%;">
