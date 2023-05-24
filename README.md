@@ -1,4 +1,4 @@
-## Hey! My name is Lexington, but most people call me Lex.
+<h1 align="center">Hey! My name is Lexington, but most people call me Lex.</h1>
 
 <!--
 **LexCarey/LexCarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
