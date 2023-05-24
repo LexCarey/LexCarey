@@ -7,7 +7,7 @@
   title="Optional title"
   style="width: 50%;">
 </div>
-<div align="center" style="margin: 0 0 10px 0">
+<div align="center" style="margin: 0 0 50px 0">
   <a href="https://www.linkedin.com/in/lexington-carey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
