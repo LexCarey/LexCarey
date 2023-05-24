@@ -17,7 +17,6 @@
   <a href="https://twitter.com/AkuaDrowned">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <br/>
 </div>
 - 🔭 I’m currently working on a new music themed social media site by the name of Amplifire.
 - 🌱 I’m currently learning AWS!
