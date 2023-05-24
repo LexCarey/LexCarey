@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<br/>
 - 🔭 I’m currently working on a new music themed social media site by the name of Amplifire.
 - 🌱 I’m currently learning AWS!
 - 💬 Ask me about what games I'm currently playing!
