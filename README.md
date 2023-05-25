@@ -34,3 +34,5 @@
 
 <h2 align="center">Live Projects</h2>
 <h3 align="center">INVRT</h3>
+<div align="center"><a href="https://invrtofficial.com/">Live Site</a> | <a href="https://github.com/LexCarey/invrt">GitHub Repository</a></div>
+<p>Invrt is a bay area clothing brand designed by Alex Brodeur. I created this eCommerce website to give his brand the ability to expand into the online market.</p>
