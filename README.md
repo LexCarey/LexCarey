@@ -30,4 +30,5 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,jquery,nodejs,express,py,flask,java,wordpress,aws,django,mongodb,mysql,git,github,vscode,ps,postman&perline=7" />
 </p>
+<p align="center">Text form</p>
 <p align="center">HTML, CSS, Bootstrap, JavaScript, React, jQuery, Nodejs, Express, Python, Flask, Java, WordPress, AWS, Django, MongoDB, MySQL, Git, GitHub, VSCode, Photoshop, Postman</p>
