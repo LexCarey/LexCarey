@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My name is Lexington, but most people call me Lex.</h1>
-<h3 align="center">I'm an aspiring full-stack software developer based in Los Angeles.</h3>
+<h3 align="center">I'm currently in college majoring in computer science!</h3>
 <div align="center" style="width:100%;">
   <img
   src="https://i.giphy.com/media/JcqgN61gtB37jRVy2W/giphy.webp"
