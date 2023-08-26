@@ -21,7 +21,7 @@
 <br/>
 
 - 🔭 I’m currently working on a new music themed social media site by the name of Amplifire.
-- 🌱 I’m currently learning AWS!
+- 🌱 I’m currently learning C++!
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
 - 💬 Ask me about what games I'm currently playing!
 - ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
