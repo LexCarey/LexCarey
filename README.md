@@ -20,8 +20,8 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on a new music themed social media site by the name of Amplifire.
-- 🌱 I’m currently learning C++!
+- 🔭 I’m currently working on a strategy roulette and agent/map randomizer website for the Valorant community.
+- 🌱 I’m currently learning Assembly Language!
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
 - 💬 Ask me about what games I'm currently playing!
 - ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
