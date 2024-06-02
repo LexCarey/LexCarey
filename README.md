@@ -20,8 +20,8 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on a strategy roulette and agent/map randomizer website for the Valorant community.
-- 🌱 I’m currently learning Assembly Language!
+- 🔭 I’m currently working on a team to create a hackathon for community colleges in California by the name of HackCC.
+- 🌱 I’m currently learning FireBase!
 - 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
 - 💬 Ask me about what games I'm currently playing!
 - ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
