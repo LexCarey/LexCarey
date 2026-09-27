@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My name is Lexington, but most people call me Lex.</h1>
-<h3 align="center">I'm currently in college majoring in computer science!</h3>
+<h3 align="center">I'm currently attending UC Berkeley pursuing a Bachelors in Computer Science.</h3>
 <div align="center" style="width:100%;">
   <img
   src="https://i.giphy.com/media/JcqgN61gtB37jRVy2W/giphy.webp"
@@ -17,11 +17,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on a team to create a hackathon for community colleges in California by the name of HackCC.
-- 🌱 I’m currently learning NextJS!
-- 📫 How to reach me: Lexcarey73@gmail.com or the social medias listed above.
-- 💬 Ask me about what games I'm currently playing!
-- ⚡ Fun fact: I'm a very big fan of Woodstock as you can see by the gif 🤣
+- 🔭 I’m currently a 3rd year at UC Berkeley working with Formula Electric @ Berkeley.
+- 🌱 I’m currently learning svelte!
+- 📫 How to reach me: Lexcarey73@gmail.com
 
 <h2 align="center">Current Skill Set</h2>
 <p align="center">
